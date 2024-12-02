@@ -1,0 +1,12 @@
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DangNhap.resources
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTrangChu.resources
+D:\Source\BanHang\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fNhanVien.resources
